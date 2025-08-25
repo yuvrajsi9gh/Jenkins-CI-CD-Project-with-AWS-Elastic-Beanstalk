@@ -90,6 +90,7 @@ We need to provide Jenkins with AWS credentials so it can deploy to Elastic Bean
 
 > **Tip:** Keep these credentials safe; we will use them in Jenkins.
 
+
 #### **2.2 Add AWS Credentials in Jenkins**
 
 1. Go to **Manage Jenkins → Credentials → Global → Add Credentials**
