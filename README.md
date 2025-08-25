@@ -1,5 +1,3 @@
-### **GitHub-Ready Documentation (Markdown Format)**
-
 # Jenkins CI/CD Project with AWS Elastic Beanstalk and GitHub
 
 ## Overview
@@ -37,7 +35,7 @@ We will set up and demonstrate this in two ways:
    yum install -y jenkins
    systemctl daemon-reload
    systemctl enable --now jenkins
-````
+   ````
 
 3. Get the initial Jenkins admin password:
 
@@ -51,7 +49,7 @@ Install Git and Zip utilities:
 
 ```bash
 yum install -y git zip
-```
+````
 
 ### Step 3: Access Jenkins Web UI
 
