@@ -1,12 +1,5 @@
-Great — I can convert this PDF into **Markdown (README.md)** with the **same structure, headings, and code blocks**, so you can put it directly into your GitHub repo.
-
-Here’s what you should do:
-
----
-
 ### **GitHub-Ready Documentation (Markdown Format)**
 
-````markdown
 # Jenkins CI/CD Project with AWS Elastic Beanstalk and GitHub
 
 ## Overview
